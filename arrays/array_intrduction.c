@@ -17,7 +17,7 @@ int marks[5] = {10, 20, 30, 40, 50};
 - To store multiple students' marks.
 - To store a list of numbers.
 - To find the largest and smallest element.
-- To calculate sum and average.
+- To calculate sum and average. 
 
 5. How to Access Array Elements?
 
