@@ -2,8 +2,8 @@
 
 int main() 
 {    
-     printf("hello world!");
-     printf("it's my ist program"):
+     printf("hello world!\n");
+     printf("it's my ist program");
 
   return 0;
 
