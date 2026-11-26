@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main() 
+{    
+     printf("hello world!");
+     printf("it's my ist program"):
+
+  return 0;
+
+}
